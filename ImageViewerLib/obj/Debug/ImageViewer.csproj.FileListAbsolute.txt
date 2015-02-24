@@ -1,0 +1,6 @@
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\ImageViewer.dll
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\openCV.dll
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.dll
+C:\Users\Mohamed\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.pdb
